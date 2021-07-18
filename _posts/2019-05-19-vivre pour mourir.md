@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Some articles are just so short that we have to make the footer stick"
+categories: misc
+---
+Vivre pour mourir,
+murir pour pourir,
+hair pour aimer,
+planter pour semer,
+A jamais je vais t’aimer.
