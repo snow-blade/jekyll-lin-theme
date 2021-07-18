@@ -1,11 +1,9 @@
 title: Your awesome title
 author: GitHub User
 email: your-email@domain.com
-copyright: © 2019 GitHub User
+copyright: © 2019 snow-blade
 description: > # this means to ignore newlines until "show_excerpts:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Poetry written by a noble fool.
 
 show_excerpts: false # set to true to show excerpts on the homepage
 
@@ -17,19 +15,19 @@ lin:
 
   # generate social links
   social_links:
-    twitter: jekyllrb
-    github:  jekyll
-    medium:  jekyll
+    twitter: tweepcoder
+    github:  snow-blade
+    medium:  freemanirabaruta
     rss: rss
     dribbble: jekyll
-    facebook: jekyll
+    facebook: freeman.irabaruta
     flickr:   jekyll
-    instagram: jekyll
-    linkedin: jekyll
+    instagram: ucode_257
+    linkedin: freeman-irabaruta-7213981a0
     pinterest: jekyll
     youtube_user: jekyll
     youtube_channel: UC8CXR0-3I70i1tfPg1PAE1g
-    telegram: jekyll
+    telegram: Snow_blade
     googleplus: +jekyll
     keybase: jekyll
 
