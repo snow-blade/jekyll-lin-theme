@@ -30,7 +30,7 @@ as he barely avoided the bullets with unparalleled mobility.<br>
 <br>
 Some lucky fellas managed to mount their horses<br>
 and they pursued him with half of their total forces.<br>
-A rough guy was charging a gantling gun,<br>
+A rough guy was charging a gatling gun,<br>
 but the unknown cowboy had turned his head and smiled as though he was having fun.<br>
 By the time the gun was charged at full capacity,<br>
 the cowboy had left the outskirts of the city.<br> 
